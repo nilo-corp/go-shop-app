@@ -1,0 +1,1 @@
+here would be the frontend apps located (webapps, spa, mobile, desktop, etc.)

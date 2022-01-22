@@ -1,0 +1,1 @@
+In this folder we store the deployment artifacts (docker compose, k8, etc.)
