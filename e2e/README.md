@@ -1,0 +1,1 @@
+in this folder should be the end-to-end test be contained

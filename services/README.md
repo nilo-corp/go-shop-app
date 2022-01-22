@@ -1,0 +1,1 @@
+All microservices, as well as the bff, aggregators, proxies, must be done in this folder
